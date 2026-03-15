@@ -1,0 +1,13 @@
+payload:
+  # bilibili
+  - '+.dataflow.biliapi.com'
+  # QQ
+  - '+.beacon.qq.com'
+  - '+.e.qq.com'
+  - '+.oth.eve.mdt.qq.com'
+  # Idlefish
+  - '+.px.ucweb.com'
+  # Yiche
+  - '+.qchannel03.cn'
+  # School
+  - '+.yfanads.com'

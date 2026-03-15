@@ -1,0 +1,19 @@
+payload:
+  # Subscriptions
+  - 'oics.net'
+  - 'em.mesl.cloud'
+  - 'popcornlab.de'
+  # Samsung Connectivity Test
+  - 'connectivity.samsung.com.cn'
+  # Banks
+  - '+.bochk.com'
+  - '+.za.group'
+  - '+.zaticdn.com'
+  - '+.zafinsvc.com'
+  - '+.zajourney.com'
+  # Apple Location Services
+  - '+.gs-loc.apple.com'
+  - '+.gs-loc-cn.apple.com'
+  # SpeedtestCN
+  - '+.speedtest.cn'
+  - '+.cnspeedtest.cn'

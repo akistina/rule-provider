@@ -1,0 +1,6 @@
+payload:
+  - '+.cloudflare-dns.com'
+  - '+.quad9.net'
+  - '+.nextdns.io'
+  - '+.msftncsi.com'
+  - '+.msftconnecttest.com'
