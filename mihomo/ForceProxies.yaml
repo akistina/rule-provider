@@ -9,3 +9,4 @@ payload:
   - 'prod.twzspnslog.kurogame.com'
   - 'sdkapi.kurogame-service.com'
   - 'sdk-prod-cdn-aws.kurogame-service.com'
+  - 'sdk-prod-cdn-aws.kurogame-service.xyz'
