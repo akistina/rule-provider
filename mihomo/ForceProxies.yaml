@@ -4,3 +4,8 @@ payload:
   - '+.nextdns.io'
   - '+.msftncsi.com'
   - '+.msftconnecttest.com'
+
+  - 'pgr.kurogame.net'
+  - 'prod.twzspnslog.kurogame.com'
+  - 'sdkapi.kurogame-service.com'
+  - 'sdk-prod-cdn-aws.kurogame-service.com'
