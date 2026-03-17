@@ -8,5 +8,6 @@ payload:
   - 'pgr.kurogame.net'
   - 'prod.twzspnslog.kurogame.com'
   - 'sdkapi.kurogame-service.com'
+  - 'sdkapi.kurogame-service.xyz'
   - 'sdk-prod-cdn-aws.kurogame-service.com'
   - 'sdk-prod-cdn-aws.kurogame-service.xyz'
