@@ -11,6 +11,9 @@ payload:
   - '+.intl.xiaomi.com'
 
   - 'dispatchosglobal.yuanshen.com'
+  - 'osuspider.yuanshen.com'
+  - 'osasiadispatch.yuanshen.com'
+  - 'oseurodispatch.yuanshen.com'
   - 'osusadispatch.yuanshen.com'
   - 'pgr.kurogame.net'
   - 'prod.twzspnslog.kurogame.com'
