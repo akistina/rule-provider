@@ -5,6 +5,8 @@ payload:
   - '+.msftncsi.com'
   - '+.msftconnecttest.com'
 
+  - '+.community.oneplus.com'
+
   - 'pgr.kurogame.net'
   - 'prod.twzspnslog.kurogame.com'
   - 'sdkapi.kurogame-service.com'
