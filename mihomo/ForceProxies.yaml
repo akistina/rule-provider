@@ -5,7 +5,10 @@ payload:
   - '+.msftncsi.com'
   - '+.msftconnecttest.com'
 
+  - '+.accounts.oneplus.com'
   - '+.community.oneplus.com'
+  - '+.intl.miui.com'
+  - '+.intl.xiaomi.com'
 
   - 'pgr.kurogame.net'
   - 'prod.twzspnslog.kurogame.com'
