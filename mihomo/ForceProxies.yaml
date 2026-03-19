@@ -10,6 +10,8 @@ payload:
   - '+.intl.miui.com'
   - '+.intl.xiaomi.com'
 
+  - 'dispatchosglobal.yuanshen.com'
+  - 'osusadispatch.yuanshen.com'
   - 'pgr.kurogame.net'
   - 'prod.twzspnslog.kurogame.com'
   - 'sdkapi.kurogame-service.com'
