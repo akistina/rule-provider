@@ -1,3 +1,2 @@
 payload:
-  - DOMAIN-SUFFIX,wechat.com
-  - IP-ASN,139341,no-resolve
+  - '+.wechat.com'
