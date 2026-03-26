@@ -1,23 +1,25 @@
 payload:
-  - '+.cloudflare-dns.com'
-  - '+.quad9.net'
-  - '+.nextdns.io'
-  - '+.msftncsi.com'
-  - '+.msftconnecttest.com'
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,quad9.net
+  - DOMAIN-SUFFIX,nextdns.io
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
 
-  - '+.accounts.oneplus.com'
-  - '+.community.oneplus.com'
-  - '+.intl.miui.com'
-  - '+.intl.xiaomi.com'
+  - DOMAIN-SUFFIX,accounts.oneplus.com
+  - DOMAIN-SUFFIX,community.oneplus.com
+  - DOMAIN-SUFFIX,intl.miui.com
+  - DOMAIN-SUFFIX,intl.xiaomi.com
 
-  - 'dispatchosglobal.yuanshen.com'
-  - 'osuspider.yuanshen.com'
-  - 'osasiadispatch.yuanshen.com'
-  - 'oseurodispatch.yuanshen.com'
-  - 'osusadispatch.yuanshen.com'
-  - 'pgr.kurogame.net'
-  - 'prod.twzspnslog.kurogame.com'
-  - 'sdkapi.kurogame-service.com'
-  - 'sdkapi.kurogame-service.xyz'
-  - 'sdk-prod-cdn-aws.kurogame-service.com'
-  - 'sdk-prod-cdn-aws.kurogame-service.xyz'
+  - DOMAIN,dispatchosglobal.yuanshen.com
+  - DOMAIN,osuspider.yuanshen.com
+  - DOMAIN,osasiadispatch.yuanshen.com
+  - DOMAIN,oseurodispatch.yuanshen.com
+  - DOMAIN,osusadispatch.yuanshen.com
+  - DOMAIN,pgr.kurogame.net
+  - DOMAIN,prod.twzspnslog.kurogame.com
+  - DOMAIN,sdkapi.kurogame-service.com
+  - DOMAIN,sdkapi.kurogame-service.xyz
+  - DOMAIN,sdk-prod-cdn-aws.kurogame-service.com
+  - DOMAIN,sdk-prod-cdn-aws.kurogame-service.xyz
+
+  - IP-ASN,139341,no-resolve
