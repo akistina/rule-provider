@@ -22,5 +22,4 @@ payload:
   - DOMAIN,sdk-prod-cdn-aws.kurogame-service.com
   - DOMAIN,sdk-prod-cdn-aws.kurogame-service.xyz
 
-  - DOMAIN-SUFFIX,codexcn.com
   - IP-ASN,139341,no-resolve
