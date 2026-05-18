@@ -1,10 +1,11 @@
 payload:
   # bilibili
   - '+.dataflow.biliapi.com'
-  # QQ
+  # Tencent
   - '+.beacon.qq.com'
   - '+.e.qq.com'
   - '+.oth.eve.mdt.qq.com'
+  - '+.apd-pcdnwxlogin.teg.tencent-cloud.net'
   # Idlefish
   - '+.px.ucweb.com'
   # Yiche
