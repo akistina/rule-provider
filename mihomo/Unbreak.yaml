@@ -17,3 +17,5 @@ payload:
   # SpeedtestCN
   - '+.speedtest.cn'
   - '+.cnspeedtest.cn'
+  # Others
+  - '+.t17service.com'
